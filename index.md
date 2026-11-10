@@ -11,7 +11,9 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [Tetesan Peluh Ibu Cerita yang Tak Pernah Usai](ebook/Tetesan Peluh Ibu Cerita yang Tak Pernah Usai.pdf) – Umi Salamah, dkk (2024)
 8. [Bandung Menjelang Pagi](ebook/Bandung Menjelang Pagi.pdf) – Brian Khrisna, dkk (2024)
 9. [Tentang Kamu](ebook/Tentang Kamu.pdf) – Tere Liye, dkk (2016)
-10. [Hello, Cello](ebook/Hello, Cello.pdf) – Nadia Ristivani, dkk (2023) 
+10. [Hello, Cello](ebook/Hello, Cello.pdf) – Nadia Ristivani, dkk (2023)
+11. [Ringkasan Pemaparan Materi UGC](ebook/Ringkasan Pemaparan Materi UGC.pdf) – Fadhli Hafizh Khairudin, dkk (2026) 
+
 
 
 
