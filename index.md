@@ -15,8 +15,5 @@ Berikut ini adalah Koleksi yang dimiliki:
 10. [Hello, Cello](ebook/Hello, Cello.pdf) – Nadia Ristivani, dkk (2023)
 11. [Ringkasan Pemaparan Materi UGC](ebook/Ringkasan Pemaparan Materi UGC.pdf) – Fadhli Hafizh Khairudin, dkk (2026) 
 
-
-
-
 ---
 *Powered by GitHub Pages*
