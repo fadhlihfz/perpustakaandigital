@@ -8,6 +8,12 @@ Berikut ini adalah Koleksi yang dimiliki:
 4. [Dunia Sophie](ebook/Dunia Sophie.pdf) – Jostein Gaarder, dkk (1996)
 5. [Laut Bercerita](ebook/Laut Bercerita.pdf) – Leila S. Chudori, dkk (2017)
 6. [Laut Tengah](ebook/Laut Tengah.pdf) – Dahlya Ahmad, dkk (2022)
-7. [Tetesan Peluh Ibu Cerita yang Tak Pernah Usai](ebook/Tetesan Peluh Ibu Cerita yang Tak Pernah Usai.pdf) – Umi Salamah, dkk (2024) 
+7. [Tetesan Peluh Ibu Cerita yang Tak Pernah Usai](ebook/Tetesan Peluh Ibu Cerita yang Tak Pernah Usai.pdf) – Umi Salamah, dkk (2024)
+8. [Bandung Menjelang Pagi](ebook/Bandung Menjelang Pagi.pdf) – Brian Khrisna, dkk (2024)
+9. [Tentang Kamu](ebook/Tentang Kamu.pdf) – Tere Liye, dkk (2016)
+10. [Hello, Cello](ebook/Hello, Cello.pdf) – Nadia Ristivani, dkk (2023) 
+
+
+
 ---
 *Powered by GitHub Pages*
