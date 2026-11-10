@@ -1,7 +1,7 @@
 # Digital Library
 Selamat Datang di Perpustakaan Digital
+Fadhli Hafizh Khairudi 13040124120011 A
 Berikut ini adalah Koleksi yang dimiliki:
-Fadhli Hafizh Khairudi 13040124120011
 ## Koleksi
 1. [artikel PERPUSTAKAAN SEBAGAI PUSAT SUMBER BELAJAR](ebook/artikel PERPUSTAKAAN SEBAGAI PUSAT SUMBER BELAJAR.pdf) – Nurnida Usholicchah, dkk (2024)
 2. [0 MDPL](ebook/0 MDPL.pdf) – Nurwina Sari), dkk (2025)
